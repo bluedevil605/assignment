@@ -1,0 +1,55 @@
+[
+  {
+    "id": "starter",
+    "name": "Starter",
+    "tagline": "For individuals getting started",
+    "price": 0,
+    "currency": "₹",
+    "period": "month",
+    "features": [
+      "Access to basic features",
+      "Up to 5 projects",
+      "Community support",
+      "Standard response time"
+    ],
+    "ctaLabel": "Get Started",
+    "highlighted": false,
+    "popular": false
+  },
+  {
+    "id": "pro",
+    "name": "Pro",
+    "tagline": "For creators and small teams",
+    "price": 499,
+    "currency": "₹",
+    "period": "month",
+    "features": [
+      "All Starter features",
+      "Unlimited projects",
+      "Priority support",
+      "Advanced analytics",
+      "Custom integrations"
+    ],
+    "ctaLabel": "Start Pro Plan",
+    "highlighted": true,
+    "popular": true
+  },
+  {
+    "id": "enterprise",
+    "name": "Enterprise",
+    "tagline": "For large teams and organizations",
+    "price": 1999,
+    "currency": "₹",
+    "period": "month",
+    "features": [
+      "All Pro features",
+      "Dedicated account manager",
+      "Custom solutions",
+      "SLA & security compliance",
+      "On-premise deployment (optional)"
+    ],
+    "ctaLabel": "Contact Sales",
+    "highlighted": false,
+    "popular": false
+  }
+]

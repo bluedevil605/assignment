@@ -1,0 +1,95 @@
+[
+  {
+    "id": "arjun-mehta",
+    "name": "Arjun Mehta",
+    "role": "Frontend Engineer",
+    "photo": "/assets/frontend.png",
+    "bio": "Builds scalable and user-friendly web experiences. Loves turning designs into clean, maintainable code.",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+    "socials": {
+      "github": "https://github.com/",
+      "linkedin": "https://linkedin.com/",
+      "twitter": "https://twitter.com/",
+      "website": "https://example.com"
+    },
+    "stats": [
+      {
+        "label": "Projects",
+        "value": "15+"
+      },
+      {
+        "label": "Years Experience",
+        "value": "3+"
+      },
+      {
+        "label": "Users Impacted",
+        "value": "10K+"
+      }
+    ]
+  },
+  {
+    "id": "sample-member-2",
+    "name": "Sample Member Two",
+    "role": "Backend Engineer",
+    "photo": "/assets/frontend.png",
+    "bio": "Designs reliable APIs and data pipelines that scale with the product.",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "socials": {
+      "github": "https://github.com/",
+      "linkedin": "https://linkedin.com/"
+    },
+    "stats": [
+      {
+        "label": "Projects",
+        "value": "10+"
+      },
+      {
+        "label": "Years Experience",
+        "value": "4+"
+      },
+      {
+        "label": "Users Impacted",
+        "value": "25K+"
+      }
+    ]
+  },
+  {
+    "id": "sample-member-3",
+    "name": "Sample Member Three",
+    "role": "UI/UX Designer",
+    "photo": "/assets/frontend.png",
+    "bio": "Crafts clear, accessible interfaces grounded in user research.",
+    "skills": [
+      "Figma",
+      "Design Systems",
+      "Prototyping"
+    ],
+    "socials": {
+      "linkedin": "https://linkedin.com/",
+      "website": "https://example.com"
+    },
+    "stats": [
+      {
+        "label": "Projects",
+        "value": "20+"
+      },
+      {
+        "label": "Years Experience",
+        "value": "5+"
+      },
+      {
+        "label": "Users Impacted",
+        "value": "50K+"
+      }
+    ]
+  }
+]

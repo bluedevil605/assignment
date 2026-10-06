@@ -1,0 +1,50 @@
+[
+  {
+    "id": "tech-fest-2026",
+    "title": "Tech Fest 2026",
+    "venue": "Main Auditorium, Block 32",
+    "description": "A two-day celebration of technology, creativity and innovation with workshops, talks and competitions.",
+    "date": "2026-10-12",
+    "image": "/assets/tech-fest.png",
+    "capacity": 500,
+    "attendeeCount": 120,
+    "attendeeAvatars": [
+      "/assets/tech-fest.png",
+      "/assets/tech-fest.png",
+      "/assets/tech-fest.png"
+    ],
+    "registrationOpensAt": null
+  },
+  {
+    "id": "hackathon",
+    "title": "Hackathon",
+    "venue": "Innovation Centre",
+    "description": "Build, collaborate and solve real-world problems in this 24-hour hackathon.",
+    "date": "2026-10-18",
+    "image": "/assets/hackathon.png",
+    "capacity": 85,
+    "attendeeCount": 85,
+    "attendeeAvatars": [
+      "/assets/hackathon.png",
+      "/assets/hackathon.png",
+      "/assets/hackathon.png"
+    ],
+    "registrationOpensAt": null
+  },
+  {
+    "id": "ai-summit",
+    "title": "AI Summit",
+    "venue": "Seminar Hall, Block 12",
+    "description": "Talks and panel discussions on the future of AI, with industry experts.",
+    "date": "2026-10-25",
+    "image": "/assets/Ai-summit.png",
+    "capacity": 300,
+    "attendeeCount": 84,
+    "attendeeAvatars": [
+      "/assets/Ai-summit.png",
+      "/assets/Ai-summit.png",
+      "/assets/Ai-summit.png"
+    ],
+    "registrationOpensAt": "2026-10-10T00:00:00+05:30"
+  }
+]
